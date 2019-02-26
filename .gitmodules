@@ -4,3 +4,6 @@
 [submodule "lib/rapidjson"]
 	path = lib/rapidjson
 	url = https://github.com/miloyip/rapidjson.git
+[submodule "examples/iOS/SioChatDemo/boost"]
+	path = examples/iOS/SioChatDemo/boost
+	url = https://github.com/alist/boostmake_ios.git
